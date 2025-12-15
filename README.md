@@ -60,9 +60,3 @@ https://sqlitebrowser.org/dl/
 3. Import queries
 * Run queries one-by-one or all at once
 
-✅ Conclusion
-This task helped me strengthen SQL concepts used in data analytics, including querying relational data, optimizing performance, and extracting business insights from a structured dataset.
-
-
-✅ **interview_answers.md** file
-Just tell me **YES** and I will generate them.
